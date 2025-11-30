@@ -7,9 +7,6 @@ The program uses a simplified classical model for two-body elastic scattering.
 - The user inputs:
   - Target mass number (A)
   - Scattering angle (theta) in degrees
-- The program calculates the final neutron energy using the formula:
-  
-  E2 = E1 * (A^2 + 1 + 2*A*cos(theta)) / (A + 1)^2
 
 - Initial neutron energy is assumed to be 1 MeV.
 - Output is displayed in MeV.
